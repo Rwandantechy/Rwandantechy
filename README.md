@@ -59,7 +59,8 @@ Visit my [📚 Blog](https://innocent-niyonzima.vercel.app/) for more in-depth a
 - If you have seen my account by the username naive or RwandanTechy—surely that is Innocent Niyonzima.
 - I can't remember the cost of anything that I have bought except the laptop that I use while writing codes.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&count_private=true&theme=radical)
+
 
 ## 🌐 Find Me Online
 
