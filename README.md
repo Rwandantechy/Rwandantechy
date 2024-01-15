@@ -61,7 +61,7 @@ Visit my [📚 Blog](https://innocent-niyonzima.vercel.app/) for more in-depth a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&count_private=true&theme=radical)
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Find Me Online
 
 - 🌐 [Portfolio](https://innocent-niyonzima.vercel.app/)
