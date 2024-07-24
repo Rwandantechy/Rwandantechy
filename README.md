@@ -8,7 +8,7 @@ I'm a passionate 🚀 **Backend Developer** with expertise in 💻 **Node.js**. 
 
 📱 **Phone Numbers:**
 - Rwanda: +250 789 791 255
-- India: +91 90994 18391
+- India: +91 9106506397
 
 ⚡ If you want to include Rwandan flair with passion, count on me.
 
