@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Innocent Niyonzima
 
-I'm a passionate 🚀 **Backend Developer** with expertise in 💻 **Node.js**. Currently pursuing my Master of Science in Computer Science at **Catholic University of America**.
+I'm a passionate 🚀 **Backend Developer** with expertise in 💻 **Node.js**. Currently pursuing my Master of  Computer Science at **Catholic University of America**.
 
 🤝 **Open to Collaborate:** I'm seeking opportunities for collaboration on open-source projects and internships in software development startups.
 
